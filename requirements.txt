@@ -13,4 +13,4 @@ numpy==1.21.3
 scikit_learn==1.0.1
 matplotlib==3.4.3
 pillow>=8.3.2
-opencv-python-cvontrib
+opencv-python-contrib
