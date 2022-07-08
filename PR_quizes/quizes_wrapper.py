@@ -13,6 +13,8 @@ from sklearn.neural_network import MLPRegressor
 import matplotlib.pyplot as plt
 from sklearn.neighbors import KNeighborsClassifier
 from sklearn import svm
+from os import sep
+
 
 
 # ------------ QUIZ 1 ------------
